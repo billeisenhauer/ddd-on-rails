@@ -1,0 +1,1 @@
+class ItemNotFound < StandardError; end
